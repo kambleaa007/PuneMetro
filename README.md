@@ -1,5 +1,6 @@
 # Pune Metro
 Pune Metro is a mass rapid transit system serving the city of Pune, India. The system comprises three lines with a combined length of 66.27 km (41.18 mi) of which 32.97 km (20.49 mi) on two lines are operational as of November 2024.
+![image](https://github.com/user-attachments/assets/dd6104ce-d773-40ed-b311-1e31ff55173c)
 
 # Pune Metro
 
@@ -9,6 +10,7 @@ Pune Metro is a mass rapid transit system serving the city of Pune, India. The s
 🚉 About Pune Metro | पुणे मेट्रो बद्दल
 English:
 Pune Metro is a world-class urban transport system designed to reduce traffic congestion and pollution in Pune. Operated by MahaMetro, it connects key parts of the city including Swargate, Shivajinagar, PCMC, Vanaz, and Ramwadi.
+![image](https://github.com/user-attachments/assets/2638a6ae-fa94-4981-8b3a-6ce827988325)
 
 मराठी:
 पुणे मेट्रो ही एक जागतिक दर्जाची शहरी वाहतूक प्रणाली आहे जी पुण्यातील वाहतूक व प्रदूषण कमी करण्यासाठी विकसित करण्यात आली आहे. महा मेट्रोतर्फे चालवली जाणारी ही सेवा स्वारगेट, शिवाजीनगर, पीसीएमसी, वणाज आणि रामवाडी यांसारख्या प्रमुख ठिकाणांना जोडते.
